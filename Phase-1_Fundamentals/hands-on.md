@@ -6,14 +6,14 @@
 - [x] Stored credentials securely in password manager
 
 ## 👤 IAM User Creation
-- Created IAM user: `cloud-admin`
-- Assigned AdministratorAccess
-- Enabled console + programmatic access
-- Downloaded credentials `.csv`
+- [x] Created IAM user: `cloud-admin`
+- [x] Assigned AdministratorAccess
+- [x] Enabled console + programmatic access
+- [x] Downloaded credentials `.csv`
 
 ## ✅ Login as IAM User
-- Successfully signed in with `cloud-admin`
-- Avoided using root account for day-to-day tasks
+- [x] Successfully signed in with `cloud-admin`
+- [x] Avoided using root account for day-to-day tasks
 
 ## 🌐 CLI Setup (Optional)
 - [ ] Installed AWS CLI
